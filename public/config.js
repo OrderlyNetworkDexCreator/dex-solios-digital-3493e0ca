@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "3_empanadas",
   "VITE_ORDERLY_BROKER_NAME": "Solios Digital",
   "VITE_BROKER_EOA_ADDRESS": "0xbedf2873ad480720dae0c29223eaad3a22794af4",
   "VITE_DISABLE_MAINNET": "false",
